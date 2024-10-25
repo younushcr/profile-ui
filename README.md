@@ -2,4 +2,4 @@
 
 A simple profile UI made using flutter.
 
-<img src="https://i.ibb.co/gR1ysbV/Profile-UI.png" alt="Profile-UI" width="500px">
+<img src="https://lh3.googleusercontent.com/d/1mHKtIFWudk1R6OBmXxKKAAH6btPL0jiq">
